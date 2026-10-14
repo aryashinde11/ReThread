@@ -116,9 +116,7 @@ node server/server.js
 
 ---
 
-## 👨‍💻 Developed By
-
-Arya Shinde
+## 👨‍💻 
 
 ---
 
